@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TurnArena.Client/TurnArena.Client.csproj" />
+  <Project Path="TurnArena.Server/TurnArena.Server.csproj" />
+  <Project Path="TurnArena.Tests/TurnArena.Tests.csproj" />
+</Solution>
